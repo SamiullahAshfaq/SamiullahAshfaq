@@ -11,8 +11,8 @@ I'm a Software Engineering student at COMSATS University Islamabad, Lahore Campu
   <div>
     <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   </div>
 </div>
 
